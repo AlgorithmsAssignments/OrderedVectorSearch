@@ -2,7 +2,7 @@
 #include <iostream>
 using namespace std;
 
-bool numberExists(vector<int> numbers, int x)
+bool numberExists(vector<int> ordered_numbers, int x)
 {
     return false;
 }
