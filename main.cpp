@@ -2,7 +2,7 @@
 #include <iostream>
 using namespace std;
 
-bool numberExists(vector<int> ordered_numbers, int x)
+bool isMaxHeap(int *array)
 {
     return false;
 }

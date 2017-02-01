@@ -9,7 +9,6 @@
 using namespace std;
 
 void test();
-
-bool numberExists(vector<int> numbers, int x);
+bool isMaxHeap(int *array);
 
 #endif // EVALUADOR_H
