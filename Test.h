@@ -10,6 +10,6 @@ using namespace std;
 
 void test();
 
-bool numberExists(vector<int> numbers, int x);
+bool numberExists(vector<int> ordered_numbers, int x);
 
 #endif // EVALUADOR_H
